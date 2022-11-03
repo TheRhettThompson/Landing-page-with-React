@@ -1,7 +1,11 @@
 import React from "react";
 const Navbar=()=>{
-return( 
+return(
+		
+	
+
 <h1>This is the Navbar</h1>
+
 );
 
 };
